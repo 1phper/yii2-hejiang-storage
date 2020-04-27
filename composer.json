@@ -1,5 +1,5 @@
 {
-    "name": "wi1dcard/yii2-hejiang-storage",
+    "name": "miniphper/yii2-hejiang-storage",
     "description": "A file uploading extension for Yii2, saving files to object storage service.",
     "type": "library",
     "require": {
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "wi1dcard",
-            "email": "yokka47@qq.com"
+            "name": "miniphper",
+            "email": "1062241667@qq.com"
         }
     ],
     "autoload": {
