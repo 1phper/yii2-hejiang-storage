@@ -29,6 +29,6 @@ class Qcloud extends BaseDriver
             throw new StorageException($ex->getMessage());
         }
         // fclose($handle);
-        return $res->get('ObjectURL');
+        return $res['Location'];
     }
 }
